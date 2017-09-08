@@ -10,3 +10,6 @@ To display trailer page run
 ```
 python ./entertainment_center.py
 ```
+## Live demo
+
+https://azhurb.github.io/movie-trailer-website/
